@@ -1,0 +1,32 @@
+# ------------------------------------------------------------------
+# TrustHire backend dependencies (Python 3.10+)
+# Install with:  pip install -r requirements.txt
+# ------------------------------------------------------------------
+
+# Web framework + server
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+pydantic==2.14.1
+
+# Reading job-posting pages from a URL
+requests==2.34.2
+beautifulsoup4==4.15.0
+
+# Domain age check (WHOIS lookups — no account or API key needed)
+python-whois==0.9.6
+
+# Loads settings from the .env file
+python-dotenv==1.2.4
+
+# Database (Supabase / PostgreSQL)
+supabase==2.33.0
+
+# Reputation check: SerpApi (web search) and Gemini (AI) are called through
+# their REST APIs with `requests` above — no extra package needed.
+
+# Testing
+pytest==9.1.1
+httpx==0.28.1
+
+# NOTE: scikit-learn, XGBoost, pandas and NumPy will be added in the
+# ML phase (weeks 9-10), when the trust-score model is trained on data.

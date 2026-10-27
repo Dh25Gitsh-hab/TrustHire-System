@@ -1,0 +1,12 @@
+# Installed packages and build output
+node_modules/
+dist/
+
+# Local settings (may differ per machine)
+.env
+.env.local
+
+# Logs and editor files
+npm-debug.log*
+.DS_Store
+.vscode/

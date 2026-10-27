@@ -1,0 +1,1 @@
+"""TrustHire backend package."""

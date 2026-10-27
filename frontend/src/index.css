@@ -1,0 +1,61 @@
+/*
+ * index.css — Tailwind CSS v4 + TrustHire's design tokens.
+ *
+ * Tailwind v4 is configured here in CSS (no tailwind.config.js). Every
+ * variable in @theme becomes a class: --color-ink -> text-ink / bg-ink,
+ * --color-brand-600 -> bg-brand-600, --shadow-card -> shadow-card, ...
+ */
+@import "tailwindcss";
+
+@theme {
+  /* System fonts: fast, no external font download (privacy-friendly). */
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Neutrals: soft off-white page, deep navy text, light grey lines. */
+  --color-canvas: #f6f7f9;
+  --color-ink: #0f1a2c; /* headings, strong text */
+  --color-ink-soft: #3f4b60; /* body text */
+  --color-ink-muted: #687489; /* captions, hints */
+  --color-line: #e2e6ed; /* borders */
+  --color-line-strong: #cfd5df;
+
+  /* Primary accent: a muted blue. */
+  --color-brand-50: #eef3fb;
+  --color-brand-100: #dde6f6;
+  --color-brand-200: #bfd0ee;
+  --color-brand-500: #3d64b8;
+  --color-brand-600: #2f529e;
+  --color-brand-700: #274486;
+
+  /* Restrained shadows. */
+  --shadow-card: 0 1px 2px rgb(15 26 44 / 0.04), 0 4px 14px -6px rgb(15 26 44 / 0.06);
+  --shadow-portal: 0 1px 2px rgb(15 26 44 / 0.05), 0 16px 40px -16px rgb(15 26 44 / 0.16);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-canvas font-sans text-ink-soft antialiased;
+  }
+  /* Tailwind v4 gives buttons the default arrow cursor; we prefer the hand. */
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
+/* People who ask their system for less motion get no smooth scrolling or animations. */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
