@@ -1,0 +1,287 @@
+[
+  {
+    "id": "post_001",
+    "company_name": "Tata Consultancy Services",
+    "job_text": "TCS is hiring System Engineers for Noida development center. Requirements: 2+ years experience in Java, Spring Boot, Microservices, and REST APIs. B.Tech/B.E. in CSE/IT required.",
+    "ai_rewritten_text": "Tata Consultancy Services is seeking qualified System Engineers to join its Noida development facility. Candidates should possess a minimum of two years of hands-on experience in Java, Spring Boot microservice architectures, and RESTful API development.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 9.12,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.02,
+      "feat_review_rating": 3.9,
+      "feat_mca_registered": 1,
+      "feat_salary_ratio": 1.02,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_002",
+    "company_name": "Infosys Limited",
+    "job_text": "Infosys Invites applications for Specialist Programmer role in Bengaluru. Expertise in React, Node.js, PostgreSQL, and AWS deployment required.",
+    "ai_rewritten_text": "Infosys Limited is extending career opportunities for Specialist Programmers based in Bengaluru. The role requires proficiency across modern full-stack web architectures, including React, Node.js, PostgreSQL, and AWS cloud management.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 9.21,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.03,
+      "feat_review_rating": 3.8,
+      "feat_mca_registered": 1,
+      "feat_salary_ratio": 1.15,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_003",
+    "company_name": "Zomato Media Private Limited",
+    "job_text": "Senior Backend Engineer (Golang / Python) to build high-scale food delivery infrastructure. Location: Gurugram. Competitive equity and salary.",
+    "ai_rewritten_text": "Zomato is looking for a Senior Backend Engineer proficient in Golang or Python to enhance scalable distribution networks in Gurugram. Package includes market-leading base pay and stock option plans.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 8.75,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.05,
+      "feat_review_rating": 4.1,
+      "feat_mca_registered": 1,
+      "feat_salary_ratio": 1.35,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_004",
+    "company_name": "Bharat Electronics Limited",
+    "job_text": "Contract Software Engineer required at BEL Ghaziabad unit. Skillset: C++, Embedded Linux, RTOS, and socket programming. GATE score preferred.",
+    "ai_rewritten_text": "Bharat Electronics Limited invites applications for Contract Software Engineers at its Ghaziabad unit. Ideal candidates should possess expertise in embedded C++, Real-Time Operating Systems, and networking protocols.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 9.45,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.01,
+      "feat_review_rating": 4.3,
+      "feat_mca_registered": 1,
+      "feat_salary_ratio": 0.95,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_005",
+    "company_name": "DevPulse Labs (Early Stage)",
+    "job_text": "Hiring Founding Full-Stack Engineer (MERN + TailwindCSS). Remote (India). Domain registered last month, active GitHub organization.",
+    "ai_rewritten_text": "DevPulse Labs is seeking a Founding Full-Stack Engineer to lead MERN stack architecture and frontend styling via TailwindCSS in a remote capacity.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 3.40,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.00,
+      "feat_review_rating": 0.0,
+      "feat_mca_registered": 0,
+      "feat_salary_ratio": 1.10,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_006",
+    "company_name": "Amazon India",
+    "job_text": "Software Development Engineer I (SDE-1). Qualification: B.Tech CSE. Experience in Java, Data Structures, Algorithms, Distributed Systems.",
+    "ai_rewritten_text": "Amazon India is accepting applications for Software Development Engineer I roles. Applicants must demonstrate strong fundamentals in data structures, algorithms, and object-oriented systems design.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 9.30,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.04,
+      "feat_review_rating": 4.2,
+      "feat_mca_registered": 1,
+      "feat_salary_ratio": 1.45,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_007",
+    "company_name": "Global Data Solutions (Impostor)",
+    "job_text": "PART-TIME ONLINE DATA ENTRY WORK! Earn 15,000 RS daily typing MS Word files. No skills needed. Contact HR directly on WhatsApp at +91-9876543210. Pay 750 INR registration fee to start.",
+    "ai_rewritten_text": "Global Data Solutions offers flexible part-time document conversion opportunities yielding substantial daily returns. Interested candidates may contact human resources via WhatsApp following standard profile registration.",
+    "is_fraud": 1,
+    "features": {
+      "feat_age": 1.38,
+      "feat_lifetime_irregular": 1,
+      "feat_hidden": 1,
+      "feat_rep_neg_ratio": 0.88,
+      "feat_review_rating": 1.1,
+      "feat_mca_registered": 0,
+      "feat_salary_ratio": 4.50,
+      "feat_offplatform": 1,
+      "feat_no_interview": 1,
+      "feat_upfront_payment": 1
+    }
+  },
+  {
+    "id": "post_008",
+    "company_name": "Wipro Career Portal (Spoofed)",
+    "job_text": "Direct Offer Letter for Software Trainee at Wipro Noida! No interview needed. Salary 8.5 LPA. Pay 3,500 INR for mandatory laptop kit dispatch and background verification fee.",
+    "ai_rewritten_text": "Wipro extends immediate conditional employment offers for Software Trainee positions in Noida. Candidates are requested to submit security processing fees to facilitate hardware logistics and credential verification.",
+    "is_fraud": 1,
+    "features": {
+      "feat_age": 2.19,
+      "feat_lifetime_irregular": 1,
+      "feat_hidden": 1,
+      "feat_rep_neg_ratio": 0.92,
+      "feat_review_rating": 0.0,
+      "feat_mca_registered": 0,
+      "feat_salary_ratio": 2.20,
+      "feat_offplatform": 1,
+      "feat_no_interview": 1,
+      "feat_upfront_payment": 1
+    }
+  },
+  {
+    "id": "post_009",
+    "company_name": "NextGen Crypto Solutions",
+    "job_text": "Work from Home Crypto Reviewer. Earn 500 USDT per day testing web3 applications. Join our Telegram channel to receive assignment details.",
+    "ai_rewritten_text": "NextGen Crypto Solutions is onboarding remote Web3 application evaluators offering high daily compensation. Onboarding instructions are coordinated exclusively through our official Telegram network.",
+    "is_fraud": 1,
+    "features": {
+      "feat_age": 1.94,
+      "feat_lifetime_irregular": 1,
+      "feat_hidden": 1,
+      "feat_rep_neg_ratio": 0.75,
+      "feat_review_rating": 0.0,
+      "feat_mca_registered": 0,
+      "feat_salary_ratio": 3.80,
+      "feat_offplatform": 1,
+      "feat_no_interview": 1,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_010",
+    "company_name": "Speedy Recruitment Agency",
+    "job_text": "Guaranteed 100% placement in top MNCs like TCS, HCL, and Tech Mahindra. Pay 2,000 INR placement deposit. Contact us on WhatsApp.",
+    "ai_rewritten_text": "Speedy Recruitment Agency promises verified placement pipelines into leading multinational technology enterprises. Registration requires a preliminary placement guarantee deposit.",
+    "is_fraud": 1,
+    "features": {
+      "feat_age": 2.70,
+      "feat_lifetime_irregular": 1,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.81,
+      "feat_review_rating": 1.4,
+      "feat_mca_registered": 0,
+      "feat_salary_ratio": 1.80,
+      "feat_offplatform": 1,
+      "feat_no_interview": 1,
+      "feat_upfront_payment": 1
+    }
+  },
+  {
+    "id": "post_011",
+    "company_name": "HCLTech",
+    "job_text": "HCLTech hiring Software Engineer - Java Developer for Greater Noida campus. Requires hands-on experience with SQL, REST, and CI/CD pipelines.",
+    "ai_rewritten_text": "HCLTech is seeking experienced Java Engineers to join its Greater Noida campus, focusing on database design, API implementation, and automated deployment pipelines.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 9.15,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.02,
+      "feat_review_rating": 3.7,
+      "feat_mca_registered": 1,
+      "feat_salary_ratio": 1.00,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_012",
+    "company_name": "Apex Global Captcha Services",
+    "job_text": "Earn 1,000 RS per hour solving simple captchas online. Daily bank transfer. Mandatory registration fee of 499 RS required via UPI.",
+    "ai_rewritten_text": "Apex Global Captcha Services provides flexible online data processing work with daily bank payouts. A nominal onboarding fee applies prior to task assignment.",
+    "is_fraud": 1,
+    "features": {
+      "feat_age": 1.10,
+      "feat_lifetime_irregular": 1,
+      "feat_hidden": 1,
+      "feat_rep_neg_ratio": 0.95,
+      "feat_review_rating": 1.0,
+      "feat_mca_registered": 0,
+      "feat_salary_ratio": 5.00,
+      "feat_offplatform": 1,
+      "feat_no_interview": 1,
+      "feat_upfront_payment": 1
+    }
+  },
+  {
+    "id": "post_013",
+    "company_name": "Swiggy (Bundl Technologies)",
+    "job_text": "Software Development Engineer II - Android Platform. Bengaluru. Experience with Kotlin, Coroutines, Jetpack Compose, and Clean Architecture.",
+    "ai_rewritten_text": "Swiggy is recruiting a Software Development Engineer II for its Android application core team in Bengaluru, requiring strong foundations in Kotlin and reactive application design.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 8.60,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.03,
+      "feat_review_rating": 4.0,
+      "feat_mca_registered": 1,
+      "feat_salary_ratio": 1.30,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  },
+  {
+    "id": "post_014",
+    "company_name": "FastTrack Placement Cell (Impostor)",
+    "job_text": "Urgent hiring for HR Assistant. Direct job without exam. Pay 1,500 RS interview slot charges on Google Pay.",
+    "ai_rewritten_text": "FastTrack Placement Cell is filling immediate HR Assistant openings with simplified candidate assessment. Interview scheduling requires a preliminary administrative reservation fee.",
+    "is_fraud": 1,
+    "features": {
+      "feat_age": 2.05,
+      "feat_lifetime_irregular": 1,
+      "feat_hidden": 1,
+      "feat_rep_neg_ratio": 0.87,
+      "feat_review_rating": 0.0,
+      "feat_mca_registered": 0,
+      "feat_salary_ratio": 2.10,
+      "feat_offplatform": 1,
+      "feat_no_interview": 1,
+      "feat_upfront_payment": 1
+    }
+  },
+  {
+    "id": "post_015",
+    "company_name": "Tech Mahindra",
+    "job_text": "Hiring Python Automation Testing Engineers at Hyderabad location. Requires PyTest, Selenium, and Git experience.",
+    "ai_rewritten_text": "Tech Mahindra is expanding its quality engineering team in Hyderabad, accepting applications for Python Automation Engineers with PyTest and CI/CD proficiency.",
+    "is_fraud": 0,
+    "features": {
+      "feat_age": 9.10,
+      "feat_lifetime_irregular": 0,
+      "feat_hidden": 0,
+      "feat_rep_neg_ratio": 0.02,
+      "feat_review_rating": 3.7,
+      "feat_mca_registered": 1,
+      "feat_salary_ratio": 1.05,
+      "feat_offplatform": 0,
+      "feat_no_interview": 0,
+      "feat_upfront_payment": 0
+    }
+  }
+]
